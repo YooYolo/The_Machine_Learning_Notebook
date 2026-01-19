@@ -1,5 +1,6 @@
 # The Machine Learning Notebook
 
 ## Resources
+__6.86__
 - [MITx 6.86x Machine Learning with Python - From Linear Models to Deep Learning](https://learning.edx.org/course/course-v1:MITx+6.86x+1T2021/home)
 - [MITx 6.86x Notes](https://github.com/Yolanda-HT/MIT_6.86x)
